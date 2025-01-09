@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Kstoto : Slot Deposit Pulsa 5000 Tanpa Potongan Dan Slot Gacor Terbaru 2025</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Kstoto menghadirkan pengalaman bermain slot yang menyenangkan dengan pilihan deposit pulsa mulai dari hanya 5000 tanpa potongan. Fitur ini memberikan kemudahan bagi para pemain untuk menikmati permainan slot tanpa harus khawatir dengan biaya tambahan atau proses transaksi yang rumit. Dengan deposit pulsa yang terjangkau" />
+        <meta name="keywords" content="Kstoto, Slot Deposit Pulsa 5000, Slot Gacor Terbaru 2025, Situs Slot Online, Situs Resmi Slot Online, Deposit Via Dana 5K, Daftar Slot Online, Slot Pulsa, Slot Gacor Gampang Menang, Slot Gacor 4D, Slot Pulsa Tanpa Potongan" />
+        <meta name="google-site-verification" content="by3zYpiETgt5Dg5ASpsHoZ4lGQRWHmXxWiQCaxGP7tQ" />
+        <meta name="application-name" content="kstoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="kstoto" />
+        <meta name="publisher" content="kstoto" />
+        <meta name="copyright" content="kstoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Kstoto : Slot Deposit Pulsa 5000 Tanpa Potongan Dan Slot Gacor Terbaru 2025" />
         <meta property="og:description" content="Kstoto : Slot Deposit Pulsa 5000 Tanpa Potongan Dan Slot Gacor Terbaru 2025, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="kstoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="kstoto" />
         <meta name="twitter:title" content="Kstoto : Slot Deposit Pulsa 5000 Tanpa Potongan Dan Slot Gacor Terbaru 2025" />
         <meta name="twitter:description" content="Kstoto : Slot Deposit Pulsa 5000 Tanpa Potongan Dan Slot Gacor Terbaru 2025, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
